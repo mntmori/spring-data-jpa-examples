@@ -1,0 +1,10 @@
+insert into application.resource("id", "name") values (1, '10');
+insert into application.resource("id", "name") values (2, '20');
+insert into application.resource("id", "name") values (3, '30');
+insert into application.resource("id", "name") values (4, '40');
+insert into application.resource("id", "name") values (5, '50');
+insert into application.resource("id", "name") values (6, '60');
+insert into application.resource("id", "name") values (7, '70');
+insert into application.resource("id", "name") values (8, '80');
+insert into application.resource("id", "name") values (9, '90');
+insert into application.resource("id", "name") values (10, '100');
